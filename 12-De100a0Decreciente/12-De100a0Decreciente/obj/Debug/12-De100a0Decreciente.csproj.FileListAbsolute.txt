@@ -1,0 +1,6 @@
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\12-De100a0Decreciente\12-De100a0Decreciente\bin\Debug\12-De100a0Decreciente.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\12-De100a0Decreciente\12-De100a0Decreciente\bin\Debug\12-De100a0Decreciente.pdb
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\12-De100a0Decreciente\12-De100a0Decreciente\obj\Debug\12-De100a0Decreciente.csprojAssemblyReference.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\12-De100a0Decreciente\12-De100a0Decreciente\obj\Debug\12-De100a0Decreciente.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\12-De100a0Decreciente\12-De100a0Decreciente\obj\Debug\12-De100a0Decreciente.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\12-De100a0Decreciente\12-De100a0Decreciente\obj\Debug\12-De100a0Decreciente.pdb
